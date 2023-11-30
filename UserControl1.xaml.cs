@@ -360,7 +360,8 @@ namespace SMTChangeDisplay
         }
 
         private void TbOP_SelectedIndexChanged(object sender, RoutedEventArgs e)
-        {
+        { 
+            //tesetaafsdafsdfafads
             string sql;
             if (tempbom != tbOP.Text)
             {
