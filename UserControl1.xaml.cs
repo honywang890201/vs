@@ -361,7 +361,7 @@ namespace SMTChangeDisplay
 
         private void TbOP_SelectedIndexChanged(object sender, RoutedEventArgs e)
         { 
-            //tesetaafsdafsdfafads
+            //today is fine day
             string sql;
             if (tempbom != tbOP.Text)
             {
